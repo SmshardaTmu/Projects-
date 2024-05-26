@@ -1,3 +1,3 @@
 # Projects-
-Jarvis (Speech to text-Text to speech translator)
-Language Translator
+1. Jarvis (Speech to text-Text to speech translator)
+2. Language Translator
